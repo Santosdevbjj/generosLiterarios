@@ -5,6 +5,15 @@ Este sistema foi desenvolvido em **Python** com **Programação Orientada a Obje
 
 ---
 
+
+Este repositório foi criado, para fins didáticos, para ilustrar o artigo publicado
+na DIO, - **36ª Competição de Artigos – Fundamentos de Python** - Para ilustrar um projeto simples desenvolvido usando a linguagem python.
+
+**Leia o artigo completo acessando:**
+https://web.dio.me/articles/python-como-dar-o-primeiro-passo-rumo-a-carreira-do-futuro-0fd918649288?back=/articles
+
+---
+
 ## 🚀 Para quem é este projeto?
 
 Este repositório foi pensado especialmente para:
