@@ -134,11 +134,17 @@ pip install spyder
 Com o ambiente ativado, inicie a IDE:
 spyder
 
+---
+
 Com o Spyder instalado e rodando, você terá um ambiente de primeira linha pronto para mergulhar no mundo do Python e Machine Learning! 
 
 Lembre-se de sempre ativar seu ambiente virtual antes de iniciar o Spyder para garantir que ele use as bibliotecas e o kernel corretos.
 
 ---
 
+**Para mais informações acesse a página oficial do Spyder:** 
+(https://www.spyder-ide.org/) 
+
+---
 
 
