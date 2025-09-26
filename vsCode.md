@@ -119,6 +119,14 @@ Com a extensão Python instalada, ao abrir qualquer arquivo .py ou um Notebook J
 Espero que este guia detalhado ajude você e outros a dominarem o VS Code e aprimorarem seus estudos em Python.
 
 
+---
+
+**Para mais informações acesse o site:**
+https://code.visualstudio.com/docs/languages/python
+
+
+---
+
 
 
 
