@@ -1,10 +1,16 @@
-## Guia Completo: O que é e Como Instalar o VS Code (Visual Studio Code)
+## Guia Completo: O que é e Como Instalar o VS Code (Visual Studio Code) 
 
-Este material foi preparado para você que está iniciando no mundo da programação, especialmente com Python e Machine Learning, e precisa de um ambiente de desenvolvimento robusto e eficiente.
+
+<img width="998" height="584" alt="Screenshot_20250926-071139" src="https://github.com/user-attachments/assets/fbd6ebe6-3394-4c1c-a132-9dd64327c31f" />
+
+---
+
+Este material foi preparado para você que está iniciando no mundo da programação, especialmente com Python.
 
  **O que é o Visual Studio Code (VS Code)?**
 
 O Visual Studio Code (VS Code) é um editor de código-fonte gratuito, de código aberto e multiplataforma (funciona em Windows, Linux e macOS), desenvolvido pela Microsoft.
+
 Embora tecnicamente seja classificado como um "editor de código" por sua natureza leve e rápida, ele é frequentemente chamado de IDE (Ambiente de Desenvolvimento Integrado) devido à sua vasta capacidade de personalização e às funcionalidades que ele ganha através de suas extensões, que o transformam em um ambiente completo para desenvolvimento.
 
 ---
