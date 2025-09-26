@@ -148,3 +148,19 @@ Lembre-se de sempre ativar seu ambiente virtual antes de iniciar o Spyder para g
 ---
 
 
+**Experimente o Spyder online**
+
+**Quer experimentar o Spyder sem precisar instalá-lo?**
+
+ Com ​​o **Binder** -   https://mybinder.org/ -   você pode trabalhar com uma cópia totalmente funcional do Spyder online, que roda diretamente no seu navegador, sem necessidade de instalação. 
+
+Visite o **Binder do Spyder** para começar a usar o Spyder.
+
+https://hub.gesis.mybinder.org/user/spyder-ide-binder-environments-mm5rhvgd/desktop/
+
+
+
+
+
+---
+
