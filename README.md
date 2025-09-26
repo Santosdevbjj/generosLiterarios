@@ -38,7 +38,34 @@ Este repositório foi pensado especialmente para:
 
 ## 📂 Estrutura do Repositório
 
-generosLiterarios ├── .gitignore ├── README.md ├── main.py                # Ponto de entrada do sistema (menu interativo) ├── requirements.txt       # Dependências do projeto ├── book_stylist/          # Pacote principal da lógica │   ├── init.py │   ├── database.py        # Conexão com o MySQL + CRUD + recomendação │   └── models.py          # Classes Livro, Cliente e Avaliacao ├── GenerosLivros.ipynb    # Notebook para testes no Google Colab ├── spyder.md              # Guia de instalação e uso da IDE Spyder └── vsCode.md              # Guia de instalação e uso da IDE VSCode
+<img width="976" height="977" alt="Screenshot_20250926-131515" src="https://github.com/user-attachments/assets/b676c849-affd-4f94-a6ac-9780d2d2027e" />
+
+**O repositório generosLiterarios contém os seguintes arquivos e pastas:**
+
+O arquivo **.gitignore**, utilizado para definir quais arquivos e pastas devem ser ignorados pelo Git.
+
+O **README.md**, que apresenta a documentação principal do projeto.
+
+O **script main.py**, que funciona como ponto de entrada do sistema, exibindo o menu interativo.
+
+O **requirements.txt**, onde estão listadas as dependências do projeto.
+
+A pasta **book_stylist**, que concentra a lógica principal do sistema. Dentro dela, encontram-se:
+
+O arquivo **__init__.py**, que transforma a pasta em um pacote Python.
+
+O **database.py**, responsável pela conexão com o banco de dados MySQL, implementação do CRUD e sistema de recomendação.
+
+O **models.py**, que contém as classes principais: Livro, Cliente e Avaliacao.
+
+
+O **GenerosLivros.ipynb**, um notebook criado para testes no Google Colab.
+
+O documento **spyder.md**, que serve como guia de instalação e uso da IDE Spyder.
+
+O documento **vsCode.md**, que apresenta instruções de instalação e utilização da IDE Visual Studio Code.
+
+
 
 ---
 
