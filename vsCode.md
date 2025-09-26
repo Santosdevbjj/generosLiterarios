@@ -74,17 +74,17 @@ Método A: Usando o arquivo .deb (Recomendado para Iniciantes)
 
 **Método B: Usando o Terminal (Avançado)**
 Você pode adicionar o repositório da Microsoft e instalar via apt:
-# 1. Instalar as dependências
+ **1. Instalar as dependências**
 sudo apt update
 sudo apt install software-properties-common apt-transport-https wget -y
 
-# 2. Importar a chave GPG da Microsoft
+**2. Importar a chave GPG da Microsoft**
 wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 
-# 3. Adicionar o repositório do VS Code
+**3. Adicionar o repositório do VS Code**
 sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 
-# 4. Atualizar o índice de pacotes e instalar o VS Code
+**4. Atualizar o índice de pacotes e instalar o VS Code**
 sudo apt update
 sudo apt install code
 
@@ -106,11 +106,16 @@ Após a instalação, a primeira coisa que você deve fazer é instalar as exten
  * **Pesquise por "Python"** (do publicador Microsoft), clique e depois clique em Instalar.
  * Repita o processo para as extensões "Jupyter" e "Pylance".
 
+---
+
 **Usando a Extensão Python**
 
 Com a extensão Python instalada, ao abrir qualquer arquivo .py ou um Notebook Jupyter (.ipynb), o VS Code:
  * Detectará automaticamente o seu interpretador Python. Se você usa ambientes virtuais (como venv ou conda), você pode selecioná-lo no canto inferior direito da janela.
  * Ativará o IntelliSense para bibliotecas como NumPy, Pandas, Scikit-learn e TensorFlow.
+
+   ---
+   
 Espero que este guia detalhado ajude você e outros a dominarem o VS Code e aprimorarem seus estudos em Python.
 
 
