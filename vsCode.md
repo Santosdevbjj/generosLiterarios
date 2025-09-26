@@ -35,7 +35,6 @@ Para um desenvolvedor de Machine Learning, o VS Code é perfeito, pois com as ex
  **Passo a Passo: Como Instalar o VS Code**
 
 A instalação do VS Code é simples em qualquer sistema operacional. Siga o procedimento correspondente ao seu sistema.
-Nota Importante: O link que você forneceu (https://docs.spyder-ide.org/current/installation.html) é para a instalação da IDE Spyder. Para instalar o VS Code, você deve usar o site oficial do VS Code.
 
 **1. Baixar o Instalador**
 
